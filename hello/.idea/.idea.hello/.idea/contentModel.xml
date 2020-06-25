@@ -19,6 +19,25 @@
         <e p="Chapter07Test.cs" t="Include" />
         <e p="Chapter08Test.cs" t="Include" />
         <e p="Chapter09Test.cs" t="Include" />
+        <e p="Chapter10Test.cs" t="Include" />
+        <e p="Chapter11Test.cs" t="Include" />
+        <e p="Chapter12Test.cs" t="Include" />
+        <e p="Chapter13Test.cs" t="Include" />
+        <e p="Chapter14Test.cs" t="Include" />
+        <e p="Chapter15Test.cs" t="Include" />
+        <e p="Chapter16Test.cs" t="Include" />
+        <e p="Chapter17Test.cs" t="Include" />
+        <e p="Chapter18Test.cs" t="Include" />
+        <e p="Chapter19Test.cs" t="Include" />
+        <e p="Chapter20Test.cs" t="Include" />
+        <e p="Chapter21Test.cs" t="Include" />
+        <e p="Chapter22Test.cs" t="Include" />
+        <e p="Chapter23Test.cs" t="Include" />
+        <e p="Chapter24Test.cs" t="Include" />
+        <e p="Chapter25Test.cs" t="Include" />
+        <e p="Chapter26Test.cs" t="Include" />
+        <e p="Chapter27Test.cs" t="Include" />
+        <e p="Chapter28Test.cs" t="Include" />
         <e p="hello.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">

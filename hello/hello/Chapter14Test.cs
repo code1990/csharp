@@ -1,0 +1,31 @@
+namespace hello
+{
+    public class Chapter14Test
+    {
+        //第14章Windows应用程序高级控件
+        //14.1ImageList控件
+        //14.1.1在ImageList控件中添加图像
+        //14.1.2在ImageList控件中移除图像
+        //14.2ListView控件
+        //14.2.1在ListView控件中添加移除项
+        //14.2.2选择ListView控件中的项
+        //14.2.3为ListView控件中的项添加图标
+        //14.2.4在ListView控件中启用平铺视图
+        //14.2.5为ListView控件中的项分组
+        //14.3TreeView控件
+        //14.3.1添加和删除树节点
+        //14.3.2获取树控件中选中的节点
+        //14.3.3为树控件中的节点设置图标
+        //14.4DateTimePicker控件
+        //14.4.1使用DateTimePicker控件显示时间
+        //14.5MonthCalendar控件
+        //14.5.1更改MonthCalendar控件的外观
+        //14.5.2在MonthCalendar控件中显示多个月份
+        //14.5.4在MonthCalendar控件中选择日期范围
+        //14.6其他高级控件
+        //14.6.2使用HelpProvider控件调用帮助文件
+        //14.6.3使用Timer控件设置时间间隔
+        //14.7小结
+        //14.8实践与练习
+    }
+}
